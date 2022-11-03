@@ -1,11 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd46fc9d-c5e8-48f2-8111-5786de962205" name="Changes" comment="" />
+    <list default="true" id="fd46fc9d-c5e8-48f2-8111-5786de962205" name="Changes" comment="day1">
+      <change afterPath="$PROJECT_DIR$/Queries/day2/string_man_views.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day2/sub_interview.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day2/subquery_rownum.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day3/alter_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day3/create_table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day3/customerandaddress.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day3/join1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day3/join2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day4/create_dev_test.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day4/join3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day4/self_join.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Queries/day4/set_operators.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7a69a0d7-705c-4a37-b80e-91c956138f60.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7a69a0d7-705c-4a37-b80e-91c956138f60/storage_v2/_src_/schema/SYS.rUIBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7a69a0d7-705c-4a37-b80e-91c956138f60/storage_v2/_src_/schema/SYSTEM.L2avkg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/APEX_040000.wQEqxw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/APEX_040000.wQEqxw.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/DBSNMP.vILSdw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/DBSNMP.vILSdw.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/DVDRENTAL.lr3Y5A.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/DVDRENTAL.lr3Y5A.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/FLOWS_FILES.fVK5Fw.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/FLOWS_FILES.fVK5Fw.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/HR.CgkAAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/HR.CgkAAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/MDSYS.tj1dBA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/ORACLE_OCM.uGKsng.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/ORACLE_OCM.uGKsng.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/ORDS_METADATA.HL8d6w.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/ORDS_METADATA.HL8d6w.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/OUTLN.MCmBBA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/OUTLN.MCmBBA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/PUBLIC.aaZQjQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/SP.XQoAAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/SP.XQoAAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/SP_AUTH.SnaCtA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/SP_AUTH.SnaCtA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/SYS.rUIBAA.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/SYS.rUIBAA.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/8c6c2354-dd83-4671-b8bc-491677ee2e89/storage_v2/_src_/schema/SYSTEM.L2avkg.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/day1/group_by.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/day1/group_by.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queries/day1/like_agg.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Queries/day1/like_agg.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2Ge10TfDxeJSmWFEmc7dCdYQeBq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,21 +78,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;oracle&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Laptop User\IdeaProjects\db-project\Queries" />
+      <recent name="C:\Users\Laptop User\IdeaProjects\db-project\Queries\day1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="group_by.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/Queries/day1/group_by.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+      <changelist id="fd46fc9d-c5e8-48f2-8111-5786de962205" name="Changes" comment="" />
       <created>1666734032617</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666734032617</updated>
+      <workItem from="1666734047002" duration="2956000" />
+      <workItem from="1666737144645" duration="2965000" />
+      <workItem from="1666740306721" duration="1469000" />
+      <workItem from="1666776445273" duration="8753000" />
+      <workItem from="1666816343504" duration="215000" />
+      <workItem from="1666818040385" duration="321000" />
+      <workItem from="1666867452995" duration="9544000" />
+      <workItem from="1667234856434" duration="7274000" />
+      <workItem from="1667295214751" duration="6108000" />
+      <workItem from="1667470219638" duration="794000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
